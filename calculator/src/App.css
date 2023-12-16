@@ -1,0 +1,14 @@
+*{
+  text-align: center;
+}
+button{
+  padding: 10px 12px;
+}
+.values{
+  background-color: gray;
+  width: 140px;
+  margin-left: 690px;
+}
+div{
+  margin-top: 200px;
+}
