@@ -3,11 +3,15 @@
 }
 button{
   padding: 10px 12px;
+  height: 100px;
+  width: 100px;
 }
 .values{
-  background-color: gray;
-  width: 140px;
-  margin-left: 690px;
+  background-color: red;
+  width: 400px;
+  height: auto;
+  font-size: large;
+  margin-left: 560px;
 }
 div{
   margin-top: 200px;

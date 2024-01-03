@@ -39,7 +39,7 @@ const Calculator = () => {
     }
   return (
     <div>
-      <Display inputs={state.inputs} result={state.result}/>
+      <Display inputs={state.inputs} result={state.result} />
       <button onClick={() => handleInputs("1")}>1</button>
       <button onClick={() => handleInputs("2")}>2</button>
       <button onClick={() => handleInputs("3")}>3</button>
